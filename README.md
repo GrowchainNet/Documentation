@@ -1,7 +1,7 @@
 # Growchain.net White Paper
 
-- [English](TechnicalWhitePaper.md)
-- [Chinese](zh-CN/TechnicalWhitePaper.md) translated by [@dayzh](https://steemit.com/@dayzh)
+- [English](EN/TechnicalWhitePaper.md)
+- [Chinese](ZH/TechnicalWhitePaper.md)
 
 # Translation Guide
 
