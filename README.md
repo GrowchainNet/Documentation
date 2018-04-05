@@ -1,7 +1,7 @@
 # Growchain.net White Paper
 
-- [English](EN/TechnicalWhitePaper.md)
-- [Chinese](ZH/TechnicalWhitePaper.md)
+- [English](En/Whitepaper - En.pdf)
+- [Chinese](Ch/Whitepaper - Ch.pdf)
 
 # Translation Guide
 
