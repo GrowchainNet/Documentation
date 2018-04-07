@@ -9,4 +9,4 @@ If you want to add new language, review/update existing translation or help to f
 
 # Website
 
-- [Growchain.net](growchain.net)
+- [Growchain.net](https://growchain.net)
